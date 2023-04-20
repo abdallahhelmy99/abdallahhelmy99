@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abdallahhelmy99
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me /gmail: abdallahhussam79@gmail.com
 
 <!---
